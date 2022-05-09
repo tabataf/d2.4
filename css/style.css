@@ -1,0 +1,584 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 450;
+  color: #293651;
+  
+ 
+}
+ .total-parte-1 {
+  width: 64vw;
+ 
+ }
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.imagem1 {
+  width: 43vw;
+
+}
+
+.cor1 {
+  color: #7c7979;
+  letter-spacing: 0.1rem;
+  font-size: 1rem;
+  line-height: 1rem;
+}
+.cor2 {
+  background-color: #45a88e;
+  color: white;
+  border: none;
+  padding: 1rem 3rem;
+  border-radius: 4rem;
+  font-family:"Montserrat", sans-serif;
+  font-size: 14px;
+  cursor: pointer;
+  font-weight: 400;
+}
+
+.cor2:hover {
+  opacity: 80%;
+  transition: 0.3s;
+}
+.cor2:active {
+  opacity: 60%;
+}
+.texto1 {
+  font-weight: 400;
+  color: #45a88e;
+  line-height: 0px;
+  letter-spacing: 5px;
+  font-size: 73%;
+
+}
+
+.texto2 {
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing:5px;
+  
+}
+  .div1 {
+    width: 100%;
+    text-align: center;
+  }
+
+  .texto3 {
+  font-weight: 900;
+  font-size: 2rem;
+
+  }
+
+
+.subtitulo1 {
+  font-size: 36px;
+  margin: 4% 3% 0% 12%;
+  font-weight: 600;
+}
+
+.linha2 {
+  width: 15px;
+  margin-left: 7px;
+  height: 3px;
+  background-color: #45a88e;
+  border-radius: 7px;
+  }
+
+.linha3 {
+    width: 11px;
+    margin-left: 7px;
+    height: 3px;
+    background-color: #45a88e;
+    border-radius: 7px;
+
+  }
+
+  .linhas {
+    display: flex;
+    margin: 3% 0 0 12% ;
+  }
+
+  .loren1 {
+    color: #596077;
+    font-weight: 400;
+    font-size: 17px;
+    margin-left: 12%;
+    margin-top: 3%;
+    line-height: 25px;
+    margin-bottom: 40px;
+  }
+
+  .subtitulo2 h2 {
+    font-size: 18px;
+    margin-left: 12%;
+    margin-top: 10px ;
+    margin-bottom: 0% ;
+    font-weight: 500;
+    
+  }
+
+  .container2 {
+    display: flex;
+    align-items: center;
+  
+  }
+
+  .UI {
+    background-color: #45a88e;
+    width: 85%;
+    height: 9px;
+    margin-left: 12%;
+    border-radius: 7px 0 0 7px;
+  }
+
+  .quadrado {
+    width: 4px;
+    height:14px;
+    background-color: white;
+    border-color: #45a88e;
+    border-style: solid;
+    border-width: 2px;
+      
+  }
+
+  .cinza1 {
+
+    background-color:#eeeff2;
+    width: 15%;
+    height: 9px;
+    border-radius: 0px 7px 7px 0px;
+  }
+
+  .webdesing {
+    background-color: #45a88e;
+    width: 75%;
+    height: 9px;
+    margin-left: 12%;
+    border-radius: 7px 0 0 7px;
+   
+  }
+
+  .cinza2 { 
+    background-color:#eeeff2;
+    width: 25%;
+    height: 9px;
+    border-radius: 0px 7px 7px 0px;
+  }
+
+  .html {
+    background-color: #45a88e;
+    width: 90%;
+    height: 9px;
+    margin-left: 12%;
+    border-radius: 7px 0 0 7px;
+  }
+
+  .cinza3 {
+    background-color:#eeeff2;
+    width: 10%;
+    height: 9px;
+    border-radius: 0px 7px 7px 0px;
+
+  }
+
+  .sketch {
+    background-color: #45a88e;
+    width: 65%;
+    height: 9px;
+    margin-left: 12%;
+    border-radius: 7px 0 0 7px;
+
+  }
+
+  .cinza4 {
+      background-color:#eeeff2;
+      width: 35%;
+      height: 9px;
+      border-radius: 0px 7px 7px 0px;
+
+    }
+
+  .porcentagem1 {
+      display: flex;
+      width: 100%;
+      justify-content: end;
+      margin: 0;
+      font-weight: 400;
+      font-size: 14px;
+
+    }
+
+  .projeto {
+    font-size: 37px;
+    font-weight: 600;
+    margin: 3% 25% 0% 25%;
+    
+    }
+
+ .linhas2 {
+      display: flex;
+      margin: 2% 54% 4% 26%;
+    }
+
+  .linha4 {
+      width: 65px;
+      height: 3px;
+      background-color: #45a88e;
+      border-radius: 7px;
+    }
+    
+ .linha5 {
+      width: 15px;
+      margin-left: 7px;
+      height: 3px;
+      background-color: #45a88e;
+      border-radius: 7px;
+      }
+    
+ .linha6 {
+    width: 11px;
+    margin-left: 7px;
+    height: 3px;
+    background-color: #45a88e;
+    border-radius: 7px;
+    
+      }
+    
+
+  .fundocinza {
+    background-color: #f1ededbe;
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+    margin: 66px 0 0 4px;
+    width: 100vw;
+  }
+    
+   .botao {
+    margin: 1px;
+    margin-bottom: 10px;
+
+      }
+
+      .desenho1 {
+      background-color: white;
+      width: 47vw;
+      height: 75vw;
+      display: inline-block;
+      }
+
+      .desenho1:hover {
+        opacity: 80%;
+        transition: 0.3s;
+        background-color: #e9f5f3;
+      }
+
+      .desenho1:active {
+        opacity: 80%;
+      }
+
+      .icones {
+        display: inline-block;
+        margin-left: 0.5rem;
+      }
+
+      .imagem {
+      margin: 10% 8% 7% 8%;
+      width: 11vw;
+
+      }
+  
+      .t1 {
+        margin: 0 0 7% 12%;
+        font-size: 1rem;
+      }
+
+      .tag1 {
+        font-size: 16px;
+        font-weight: 300;
+        margin: 2% 7% 15% 12%;
+      }
+
+      .desenho2 {
+        background-color: white;
+        width: 47vw;
+        height: 75vw;
+        display: inline-block;
+    
+      }
+
+      .desenho2:hover {
+        opacity: 80%;
+        transition: 0.3s;
+        background-color: #e9f5f3;
+      }
+      .desenho2:active {
+        opacity: 80%;
+      }
+
+      .desenho3 {
+        background-color: white;
+        width: 47vw;
+        height: 75vw;
+        display: inline-block;
+      }
+
+      .desenho3:hover {
+        opacity: 80%;
+        transition: 0.3s;
+        background-color: #e9f5f3;
+      }
+      .desenho3:active {
+        opacity: 80%;
+      }
+
+      .desenho4 {
+        background-color: white;
+        width: 47vw;
+        height: 75vw;
+        display: inline-block;
+      }
+
+      .desenho4:hover {
+        opacity: 80%;
+        transition: 0.3s;
+        background-color: #e9f5f3;
+      }
+      .desenho4:active {
+        opacity: 80%;
+      }
+      .maps {
+      width: 100%;
+      height: 67px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      }
+
+      .imagem2 {
+      
+        width: 1000px;
+    
+      }
+      .icones2 {
+       display: inline-block;
+       margin-left: 0.5rem;
+       
+      }
+      
+
+      .contato {
+      background-color: #45a88e;
+      height: 27vh;
+      color: white;
+      padding: 2%;
+      border-radius: 15px;
+      margin: auto;
+      width: 85vw;;
+      margin-top: 4%;
+      margin-bottom: 4%;
+      }
+
+      .linhas3 {
+        display: flex;
+        margin-top: 0.6rem;
+        margin-left: 1rem;
+        
+      }
+    
+      .linha7 {
+        width: 74px;
+        height: 3px;
+        background-color: #f0f8f6;
+        border-radius: 7px;
+        margin-left: -1%;
+      }
+      
+      .linha8 {
+        width: 15px;
+        margin-left: 3px;
+        height: 3px;
+        background-color: #f0f8f6;
+        border-radius: 7px;
+        }
+      
+      .linha9 {
+          width: 11px;
+          margin-left: 3px;
+          height: 3px;
+          background-color: #f0f8f6;
+          border-radius: 7px;
+      }
+
+    .caixaverde {
+      font-size: 37px;
+      font-weight: 600;
+      margin: 3% 25% 0% 5%;
+     
+
+    }
+.contato-text {
+  margin: 5% 0px 3% 3%;
+  font-size: 19px;
+    }
+
+    .contato-text2 {
+      margin: 2% 0px 3% 3%;
+      font-size: 19px;
+    }
+
+.total-parte-3 {
+  align-items: center;
+}
+
+.subir{
+  margin-top: -23%;
+}
+
+.fundocinza2 {
+  background-color: #f1ededbe;
+  flex-direction: column;
+  width: 100vw;
+  text-align: center;
+}
+
+.fontegrande {
+  font-size:  37px;
+  margin: 2% 0px 3% 3%;
+  font-weight: 600;
+  
+}
+
+.icones-fundo-cinza {
+ display: flex;
+ justify-content: center;
+ width: 85%;
+ gap: 2%;
+
+}
+
+.icon {
+   margin-left: 50px;
+   margin-top: 47px;
+   height: 75px;
+   width: 35px;
+}
+
+.e-mail {
+  margin-top: 2%;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.final {
+  display: inline-block;
+  margin-left: 51px;
+}
+
+.fin {
+  font-size: 1.2rem;
+  margin-right: 3rem;
+
+}
+
+
+@media (min-width: 1000px) {
+
+  .imagem1 {
+    width: 24rem;
+  }
+  .texto1 {
+    font-size: 2rem;
+  }
+  .texto3 {
+    font-size: 3rem;
+  }
+  .texto2 {
+    font-size: 1.5rem;
+  }
+  .cor1 {
+    font-size: 1.2rem;
+    letter-spacing: 0.2rem;
+    line-height: 2rem;
+  }
+  .cor2 {
+  width: 15rem;
+  height: 3.3rem;
+
+  }
+
+  .desenho1 {
+    background-color: white;
+    width: 20vw;
+    height: 15vw;
+  }
+  
+  .desenho2 {
+    background-color: white;
+    width: 20vw;
+    height: 15vw;
+
+  }
+
+  .desenho3 {
+    background-color: white;
+    width: 20vw;
+    height: 15vw;
+  }
+
+  .desenho4 {
+    background-color: white;
+    width: 20vw;
+    height: 15vw;
+  }
+ 
+  .contato {
+    width: 43vw;
+    height: 12vw;
+  }
+
+  .linhas3 {
+    margin-left: 2rem;
+  }
+
+  .imagem {
+    width: 3vw;
+    margin-left: 10rem;
+    margin-top: 3rem;
+  }
+
+  .e-mail {
+    margin-top: 6rem;
+  }
+
+  .icones-total {
+    width: 41vw;
+    margin: auto;
+  }
+
+  .icones {
+    display: inline-block;
+    margin-bottom: 6rem;
+  }
+
+  .projeto {
+    margin-top: 3rem;
+    margin-left: 73rem;
+  }
+
+  .linhas2 {
+    margin-bottom: 3rem;
+    margin-top: 1rem;
+    margin-left: 73rem;
+  }
+
+  .icones {
+    margin-bottom: 1rem;
+  }
+
+}
